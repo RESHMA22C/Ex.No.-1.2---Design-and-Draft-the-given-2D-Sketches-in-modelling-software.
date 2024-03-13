@@ -36,6 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ ![Screenshot 2024-03-13 144422](https://github.com/RESHMA22C/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147474426/3aec26f6-c51c-44e0-b743-6e475524d8f2)
+
  
  
  ## RESULT
